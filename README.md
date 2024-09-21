@@ -20,9 +20,8 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=sahilbhise09&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 "I always believe in giving my best, and if I fall short, I know I gave it my all. That's what truly matters—because while winning is important, having the right mindset is even more essential." - Virat Kohli
 
 ### 🔝 Top Contributed Repo
